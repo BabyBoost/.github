@@ -17,6 +17,12 @@ Visit our Website : [BabyBoost](https://babyboost.netlify.app "BabyBoost").
 <br>
 <br>
 
+## Project Repository
+| Role                                 | Repository Link                                                                           |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| Front-End                            | [BabyBoost-FE](https://github.com/BabyBoost/BabyBoost-FE)                                 |
+| Back-End                             | [BabyBoost-BE](https://github.com/BabyBoost/BabyBoost-BE)                                 |
+
 # Screenshots
 
 ## Beranda
